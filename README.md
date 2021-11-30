@@ -1,6 +1,6 @@
 # nginx-proxy
 
-A running example of [soheilhy/nginxproxy.md](https://gist.github.com/soheilhy/8b94347ff8336d971ad0) using dockers.
+A running example of [soheilhy/nginxproxy.md](https://gist.github.com/soheilhy/8b94347ff8336d971ad0) using nginx docker image.
 
 You only need to update `server-list.conf` to make nginx work as a proxy server.
 
